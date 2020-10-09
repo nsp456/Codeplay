@@ -1,3 +1,5 @@
+## This website is hosted at: https://nsp456.github.io/Codeplay/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nsp456/Codeplay/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
